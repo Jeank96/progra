@@ -1,0 +1,12 @@
+c:\users\allan\documents\visual studio 2015\Projects\Proyecto 2 sistema de ventas\Proyecto 2 sistema de ventas\bin\Debug\Proyecto 2 sistema de ventas.exe.config
+c:\users\allan\documents\visual studio 2015\Projects\Proyecto 2 sistema de ventas\Proyecto 2 sistema de ventas\bin\Debug\Proyecto 2 sistema de ventas.exe
+c:\users\allan\documents\visual studio 2015\Projects\Proyecto 2 sistema de ventas\Proyecto 2 sistema de ventas\bin\Debug\Proyecto 2 sistema de ventas.pdb
+c:\users\allan\documents\visual studio 2015\Projects\Proyecto 2 sistema de ventas\Proyecto 2 sistema de ventas\obj\Debug\Proyecto 2 sistema de ventas.csprojResolveAssemblyReference.cache
+c:\users\allan\documents\visual studio 2015\Projects\Proyecto 2 sistema de ventas\Proyecto 2 sistema de ventas\obj\Debug\Proyecto_2_sistema_de_ventas.Form1.resources
+c:\users\allan\documents\visual studio 2015\Projects\Proyecto 2 sistema de ventas\Proyecto 2 sistema de ventas\obj\Debug\Proyecto_2_sistema_de_ventas.Properties.Resources.resources
+c:\users\allan\documents\visual studio 2015\Projects\Proyecto 2 sistema de ventas\Proyecto 2 sistema de ventas\obj\Debug\Proyecto 2 sistema de ventas.csproj.GenerateResource.Cache
+c:\users\allan\documents\visual studio 2015\Projects\Proyecto 2 sistema de ventas\Proyecto 2 sistema de ventas\obj\Debug\Proyecto 2 sistema de ventas.exe
+c:\users\allan\documents\visual studio 2015\Projects\Proyecto 2 sistema de ventas\Proyecto 2 sistema de ventas\obj\Debug\Proyecto 2 sistema de ventas.pdb
+C:\Users\Allan\documents\visual studio 2015\Projects\Proyecto 2 sistema de ventas\Proyecto 2 sistema de ventas\obj\Debug\Proyecto_2_sistema_de_ventas.Form2.resources
+C:\Users\Allan\documents\visual studio 2015\Projects\Proyecto 2 sistema de ventas\Proyecto 2 sistema de ventas\obj\Debug\Proyecto_2_sistema_de_ventas.Form3.resources
+C:\Users\Allan\Documents\Visual Studio 2015\Projects\Proyecto 2 sistema de ventas\Proyecto 2 sistema de ventas\obj\Debug\Proyecto_2_sistema_de_ventas.Form4.resources
